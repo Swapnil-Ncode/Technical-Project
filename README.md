@@ -1,4 +1,4 @@
-# 🚀 TextVibe - Social Media Content Analyzer
+# 🚀 Extract and Analyser - Social Media Content Analyzer
 
 <div align="center">
 
