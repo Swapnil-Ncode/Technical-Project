@@ -35,7 +35,7 @@
 
 ## 👀 Overview
 
-**TextVibe** is a modern web application designed for content creators, social media managers, and marketers. It leverages cutting-edge OCR (Optical Character Recognition) and PDF processing technologies to extract text from documents and images, then provides intelligent recommendations for optimizing social media content.
+**Extract and Analyser** is a modern web application designed for content creators, social media managers, and marketers. It leverages cutting-edge OCR (Optical Character Recognition) and PDF processing technologies to extract text from documents and images, then provides intelligent recommendations for optimizing social media content.
 
 The application features a beautiful, intuitive UI built with React and Tailwind CSS, supporting both drag-and-drop and manual file selection for seamless user experience.
 
@@ -91,8 +91,8 @@ The application features a beautiful, intuitive UI built with React and Tailwind
 │  Left Panel (Upload)        │    Right Panel (Results)  │
 ├─────────────────────────────┼──────────────────────────┤
 │                             │                          │
-│  TextVibe Header (Gradient) │  Loading Spinner (80%)   │
-│                             │                          │
+│  Extract&Analyser Header    │ Loading Spinner (80%)    │
+│   (Gradient)                │                          │
 │  File Upload Box            │  Extracted Text Card     │
 │  - Drag & Drop Area         │  - Copy Button           │
 │  - Browse Button            │  - Text Preview          │
@@ -182,7 +182,7 @@ App.jsx (Main Component)
 │
 └── UI Sections
     ├── Left Panel (Upload Area)
-    │   ├── Header (TextVibe branding)
+    │   ├── Header (Extract and Analyser branding)
     │   ├── File Input
     │   ├── Drag & Drop Zone
     │   ├── File Status Display
@@ -248,7 +248,7 @@ npm run preview
 ### Basic Workflow
 
 1. **Open the Application**
-   - Navigate to the TextVibe interface
+   - Navigate to the Extract and Analyser interface
    - You'll see two panels: Upload (left) and Results (right)
 
 2. **Upload a File**
@@ -514,6 +514,6 @@ For questions or support, please reach out through GitHub issues.
 
 **Give us a ⭐ if you found this project helpful!**
 
-[Back to top](#-textvibe---social-media-content-analyzer)
+[Back to top](#-Extract and Analyser---social-media-content-analyzer)
 
 </div>
